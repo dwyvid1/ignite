@@ -1,8 +1,8 @@
 <p align="center">
-  <img alt="Logo Ignite - Rocketseat" src=".github/logo.png" width="200px" />
+  <img alt="Logo Ignite - Rocketseat" src=".github/ignite.png" width="100%" />
 </p>
 
-<h1 align="center">Ignite 📚</h1>
+<h1 align="center">Ignite - Rocketseat 🚀</h1>
 
 Ignite is a course sponsored by Rocketseat whose goal is to reach the next level in programming. Rocketseat is a renowned programming school in Brazil, with several courses for beginners and experts programmers.
 
