@@ -11,20 +11,7 @@
     --green-500: #00875f;
   }
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 body {
-    background: var(--grey-900);
-    color: var(--grey-300);
-    -webkit-font-smoothing: antialiased;
-}
-
-body, input, textarea, button {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 400;
-    font-size: 1rem;
-}
+    background: #121214;
+    color: #fff;
+  }
